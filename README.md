@@ -1,4 +1,4 @@
-## :robot: Jeremy Rose
+## Jeremy Rose
 
 *:technologist: Software Engineer :: :teacher: Teacher :: :writing_hand: Writer :: :books: Language Learner*
 
